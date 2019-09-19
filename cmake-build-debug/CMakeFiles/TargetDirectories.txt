@@ -1,0 +1,3 @@
+C:/Herencia y Polimorfismo/unidad-2-agregacion-y-polimorfismo-JRebosio/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Herencia y Polimorfismo/unidad-2-agregacion-y-polimorfismo-JRebosio/cmake-build-debug/CMakeFiles/Nuevo.dir
+C:/Herencia y Polimorfismo/unidad-2-agregacion-y-polimorfismo-JRebosio/cmake-build-debug/CMakeFiles/rebuild_cache.dir
